@@ -3,8 +3,7 @@
 一個讓人免費體驗「把錢砸在一番賞上是什麼感覺」的網頁。機率完全照實體箱的規則跑，
 所有人共用同一箱，抽完自動換下一箱。
 
-**線上試玩：** 
-`https://ichiban-kuji-sim.netlify.app`
+**線上試玩：** https://ichiban-kuji-sim.netlify.app
 
 <!-- 建議放三張截圖：貨架、籤台、收支結算 -->
 ![貨架](docs/shelf.png)
