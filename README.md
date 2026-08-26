@@ -4,7 +4,7 @@
 所有人共用同一箱，抽完自動換下一箱。
 
 **線上試玩：** 
-`(https://ichiban-kuji-sim.netlify.app)`
+`https://ichiban-kuji-sim.netlify.app`
 
 <!-- 建議放三張截圖：貨架、籤台、收支結算 -->
 ![貨架](docs/shelf.png)
